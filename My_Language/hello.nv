@@ -1,0 +1,10 @@
+show<stacvec>
+num x<4>
+num t<4>
+num b<4>
+t<8>
+num q<4>
+x<8>
+t<2>
+
+show<eli stacvec>
